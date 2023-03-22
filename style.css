@@ -17,12 +17,12 @@ main {
 }
 .card-container {
     text-align: center;
-    width: 325px;
-    padding: 1.5rem;
+    max-width: 285px;
+    padding: 1rem;
     background-color: white;
     box-shadow: 0 4px 8px 0 hsl(220, 15%, 55%), 0 6px 20px 0 hsl(220, 15%, 55%);
     font-family: 'Outfit', sans-serif;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 img {
     max-width: 100%;
@@ -32,12 +32,12 @@ img {
 h1 {
     margin: 1.5rem 0;
     font-weight: 700;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: hsl(218, 44%, 22%);
 }
 p {
     margin: 1rem 0;
-    font-size: 15px;
+    font-size: 1rem;
     color: hsl(220, 15%, 55%);
 }
 
